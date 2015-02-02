@@ -13,8 +13,6 @@ Demo Link
 http://rtcampwpassignment.comoj.com/rtcamp/wordpress/slideshow-and-contributor/
 
 Third party libraries
-
-As name suggest for slideshow we are using BXslider for slideshow
 http://bxslider.com/
 
 
