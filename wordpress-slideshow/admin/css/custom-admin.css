@@ -1,0 +1,42 @@
+.bx_thumbnails {
+    background: none repeat scroll 0 0 #DFDFDF;
+    border: 1px solid #BBBBBB;
+    border-radius: 3px;
+    cursor: move;
+    display: block;
+    float: left;
+    margin-bottom: 11px;
+    margin-right: 13px;
+    padding: 0;
+    position: relative;
+}
+.bx_thumbnails:hover {
+    background: none repeat scroll 0 0 #EFEFEF;
+}
+.bx_thumbnails > div {
+    height: 123px;
+    margin: 12px;
+    overflow: hidden;
+    width: 150px;
+}
+.delete-this, .bx_remove_item {
+    background: url("../images/uploader-icons.png") no-repeat scroll -96px 3px #FFFFFF;
+    border: 1px solid #AAAAAA;
+    border-radius: 3px;
+    display: block;
+    height: 21px;
+    position: absolute;
+    right: -11px;
+    top: -9px;
+    width: 21px;
+}
+.delete-this:hover, .bx_remove_item:hover {
+    background-color: #FF4444;
+}
+.delete-this > span, .bx_remove_item > span {
+    display: none;
+}
+fieldset{
+	padding: 10px;
+	border: 1px solid;
+}
