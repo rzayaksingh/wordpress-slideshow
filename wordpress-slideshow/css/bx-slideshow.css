@@ -1,3 +1,13 @@
 .bxslider li{
 	margin: 0;
 }
+.bx-prev {
+	border: none !important;
+}
+.bx-next {
+	border: none !important;
+}
+.bxslider li img.attachment-full {
+	height: 438px;
+	width: 100%;
+}
